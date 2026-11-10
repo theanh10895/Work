@@ -1,0 +1,14 @@
+{
+  "name": "ke-toan-gas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phần mềm kế toán mua hàng - bán hàng - kho cho đại lý gas (công nợ tiền và công nợ vỏ)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node scripts/demo-data.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
